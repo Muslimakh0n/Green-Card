@@ -1,0 +1,64 @@
+body{
+    background-image: url('../images/red-card.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    overflow-x: hidden;
+    
+
+}
+
+.container{
+    width: 50%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 16px;
+    height: auto;
+    
+}
+
+.holder{
+    background-color: #efefef;
+    
+}
+
+.title{
+    text-align: center;
+    
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    
+}
+
+.name{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: auto;
+    background-color: rgb(190, 186, 186);
+}
+
+.color{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100px;
+    height: 18px;
+}
+
+.send{
+    
+    
+    text-align: center; 
+   
+}
+
+.sent{
+    border: 1px solid black;
+  border-radius: 5px;
+  width: auto;
+  text-align: center;
+  background-color: rgb(190, 186, 186);
+
+}
